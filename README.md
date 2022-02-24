@@ -5,8 +5,6 @@ Improving day by day.
 
 Star⭐ the repo if you like what you see😉.
 
-<a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
 ## ✨ Requirements
